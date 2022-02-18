@@ -1,4 +1,5 @@
 //var -> funciona em qualquer parte do código
+//tem escopo global
 // pode ser modificada ao longo do código
 // podemos usar a var antes de declarar
 // o programa lê elas primeiro
