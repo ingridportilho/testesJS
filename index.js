@@ -1,8 +1,5 @@
-//Arrays
-
-//exemplo: média de notas
-
-const notas = [10, 6.5, 8, 7.5];
-
-let media = (notas[0] + notas[1] + notas[2] + notas[3])/notas.length;
-console.log(media);
+const arrayVazia = [,,,];
+console.log(arrayVazia.length)
+arrayVazia.push(50)
+console.log(arrayVazia)
+console.log(arrayVazia.length)
